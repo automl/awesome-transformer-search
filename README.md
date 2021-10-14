@@ -6,8 +6,8 @@
 
 To keep track of the large number of recent papers that look at the intersection of Transformers and Neural Architecture Search (NAS), we have created this _awesome_ list of curated papers and resources, inspired by [awesome-autodl](https://github.com/D-X-Y/Awesome-AutoDL), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). Papers are divided into the following categories:
 1. [**General Transformer search**](#general-transformer-search)
-2. **Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**
-3. **Insights on Transformer components or searchable parameters**
+2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
+3. [**Insights on Transformer components or searchable parameters**]()
 4. **Transformer Surveys**
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
@@ -37,10 +37,19 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Vision Transformer Architecture Search](https://arxiv.org/pdf/2106.13700.pdf)                 | arxiv [June'21] | SenseTime, Tsingua University        |
 
 
-### NLP
+### Natural Language Processing
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/pdf/2107.02960.pdf) | **KDD'21**       | MSR, Tsinghua University |
+| [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/pdf/2105.14444.pdf) | **KDD'21**       | MSR, Tsinghua University |
 | [AutoBERT-Zero: Evolving the BERT backbone from scratch](https://arxiv.org/pdf/2107.07445.pdf) | arxiv [July'21] | Huawei Noah’s Ark Lab       |
-| [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.youtube.com/watch?v=N_tH1jIbqCw&ab_channel=MITHANLab)  | **CVPR'21**    | Bytedance Inc.             |
+| [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/pdf/2005.14187.pdf)  | **ACL'20**    | MIT           |
+
+
+### Automatic Speech Recognition
+
+| Title                                                                                                   | Venue         | Group                  |
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Darts-Conformer: Towards Efficient Gradient-Based Neural Architecture Search For End-to-End ASR](https://arxiv.org/pdf/2104.02868.pdf) | arxiv [Aug'21] | NPU, Xi'an       |
+| [Improved Conformer-based End-to-End Speech Recognition Using Neural Architecture Search](https://arxiv.org/pdf/2104.05390.pdf) | arxiv [April'21]  | Chinese Academy of Sciences |
+| [Evolved Speech-Transformer: Applying Neural Architecture Search to End-to-End Automatic Speech Recognition](https://indico2.conference4me.psnc.pl/event/35/contributions/3122/attachments/301/324/Tue-1-8-5.pdf)  | **INTERSPEECH'20**    | VUNO Inc.           |
