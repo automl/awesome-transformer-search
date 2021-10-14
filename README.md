@@ -75,3 +75,5 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | arxiv [Oct'21] | MBZ University of AI      |
 | [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | arxiv [Sept'21]  | Google Research |
+### Misc resources
+- [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
