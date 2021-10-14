@@ -8,7 +8,7 @@ To keep track of the large number of recent papers that look at the intersection
 1. [**General Transformer search**](#general-transformer-search)
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
 3. [**Insights on Transformer components or searchable parameters**](#insights-on-transformer-components-and-interesting-papers)
-4. **Transformer Surveys**(#transformer-surveys)
+4. [**Transformer Surveys**](#transformer-surveys)
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
 
@@ -70,3 +70,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)                                                                                 | **ACL'19**       | Yandex           |
 
+## Transformer Surveys
+| Title                                                                                                   | Venue         | Group                  |
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | arxiv [Oct'21] | MBZ University of AI      |
+| [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | arxiv [Sept'21]  | Google Research |
