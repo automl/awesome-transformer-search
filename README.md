@@ -7,7 +7,7 @@
 To keep track of the large number of recent papers that look at the intersection of Transformers and Neural Architecture Search (NAS), we have created this _awesome_ list of curated papers and resources, inspired by [awesome-autodl](https://github.com/D-X-Y/Awesome-AutoDL), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). Papers are divided into the following categories:
 1. [**General Transformer search**](#general-transformer-search)
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
-3. [**Insights on Transformer components or searchable parameters**]()
+3. [**Insights on Transformer components or searchable parameters**](#insights-on-transformer-components-and-interesting-papers)
 4. **Transformer Surveys**
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
@@ -53,3 +53,16 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Darts-Conformer: Towards Efficient Gradient-Based Neural Architecture Search For End-to-End ASR](https://arxiv.org/pdf/2104.02868.pdf) | arxiv [Aug'21] | NPU, Xi'an       |
 | [Improved Conformer-based End-to-End Speech Recognition Using Neural Architecture Search](https://arxiv.org/pdf/2104.05390.pdf) | arxiv [April'21]  | Chinese Academy of Sciences |
 | [Evolved Speech-Transformer: Applying Neural Architecture Search to End-to-End Automatic Speech Recognition](https://indico2.conference4me.psnc.pl/event/35/contributions/3122/attachments/301/324/Tue-1-8-5.pdf)  | **INTERSPEECH'20**    | VUNO Inc.           |
+
+
+## Insights on Transformer components and interesting papers
+| Title                                                                                                   | Venue         | Group                  |
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
+| [What makes for hierarchical vision transformers](https://arxiv.org/pdf/2107.02174.pdf)                                                                                 | arxiv [Sept'21]       | HUST           |
+| [AutoAttend: Automated Attention Representation Search](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf) | **ICML'21**       | Tsinghua University |
+| [Rethinking Attention with Performers](https://openreview.net/pdf?id=Ua6zuk0WRH)                              | **ICLR'21 Oral** | Google              |
+| [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b)                 | **ICLR'21** | Google Research        |
+| [HyperGrid Transformers](https://openreview.net/pdf?id=hiq1rHO8pNT)                             | **ICLR'21** | Google Research       |
+| [LocalViT: Bringing Locality to Vision Transformers](https://arxiv.org/pdf/2104.05707.pdf)                             | arxiv [April'21]   | ETH Zurich            |
+| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)                                                                                 | **ACL'19**       | Yandex           |
