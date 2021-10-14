@@ -18,6 +18,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://openreview.net/forum?id=Esk2g83ELUt)                              | arxiv [Oct'21] | SenseTime              |
 | [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2103.12424.pdf) | **ICCV'21**       | Sun Yat-sen University |
+| [Memory-Efficient Differentiable Transformer Architecture Search](https://aclanthology.org/2021.findings-acl.372.pdf)                              | **ACL-IJCNLP'21** | MSR, Peking University              |
 | [Finding Fast Transformers: One-Shot Neural Architecture Search by Component Composition](https://arxiv.org/pdf/2008.06808.pdf)                 | arxiv [Aug'20] | Google Research        |
 | [AutoTrans: Automating Transformer Design via Reinforced Architecture Search](https://arxiv.org/pdf/2009.02070.pdf)                             | arxiv [Sep'20] | Fudan University       |
 | [NAT: Neural Architecture Transformer for Accurate and Compact Architectures](https://arxiv.org/pdf/1910.14488.pdf)                             | **NeurIPS'19**    | Tencent AI             |
@@ -34,3 +35,12 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Searching for Efficient Multi-Stage Vision Transformers](https://neural-architecture-ppf.github.io/papers/00011.pdf)                             | ICCV'21 workshop | MIT       |
 | [HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_HR-NAS_Searching_Efficient_High-Resolution_Neural_Architectures_With_Lightweight_Transformers_CVPR_2021_paper.pdf)                             | **CVPR'21**    | Bytedance Inc.             |
 | [Vision Transformer Architecture Search](https://arxiv.org/pdf/2106.13700.pdf)                 | arxiv [June'21] | SenseTime, Tsingua University        |
+
+
+### NLP
+
+| Title                                                                                                   | Venue         | Group                  |
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/pdf/2107.02960.pdf) | **KDD'21**       | MSR, Tsinghua University |
+| [AutoBERT-Zero: Evolving the BERT backbone from scratch](https://arxiv.org/pdf/2107.07445.pdf) | arxiv [July'21] | Huawei Noah’s Ark Lab       |
+| [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://www.youtube.com/watch?v=N_tH1jIbqCw&ab_channel=MITHANLab)  | **CVPR'21**    | Bytedance Inc.             |
