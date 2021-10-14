@@ -8,7 +8,7 @@ To keep track of the large number of recent papers that look at the intersection
 1. [**General Transformer search**](#general-transformer-search)
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
 3. [**Insights on Transformer components or searchable parameters**](#insights-on-transformer-components-and-interesting-papers)
-4. **Transformer Surveys**
+4. **Transformer Surveys**(#transformer-surveys)
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
 
@@ -59,10 +59,12 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
+| [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.12424.pdf)                              | **ICCV'21** | NAVER AI |
 | [What makes for hierarchical vision transformers](https://arxiv.org/pdf/2107.02174.pdf)                                                                                 | arxiv [Sept'21]       | HUST           |
 | [AutoAttend: Automated Attention Representation Search](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf) | **ICML'21**       | Tsinghua University |
 | [Rethinking Attention with Performers](https://openreview.net/pdf?id=Ua6zuk0WRH)                              | **ICLR'21 Oral** | Google              |
 | [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b)                 | **ICLR'21** | Google Research        |
 | [HyperGrid Transformers](https://openreview.net/pdf?id=hiq1rHO8pNT)                             | **ICLR'21** | Google Research       |
 | [LocalViT: Bringing Locality to Vision Transformers](https://arxiv.org/pdf/2104.05707.pdf)                             | arxiv [April'21]   | ETH Zurich            |
+| [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)                                                                                 | **ACL'19**       | Yandex           |
