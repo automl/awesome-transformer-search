@@ -16,7 +16,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://openreview.net/forum?id=Esk2g83ELUt)                              | arxiv [Oct'21] | SenseTime              |
+| [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://arxiv.org/pdf/2110.04035.pdf)                              | arxiv [Oct'21] | SenseTime              |
 | [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2103.12424.pdf) | **ICCV'21**       | Sun Yat-sen University |
 | [Memory-Efficient Differentiable Transformer Architecture Search](https://aclanthology.org/2021.findings-acl.372.pdf)                              | **ACL-IJCNLP'21** | MSR, Peking University              |
 | [Finding Fast Transformers: One-Shot Neural Architecture Search by Component Composition](https://arxiv.org/pdf/2008.06808.pdf)                 | arxiv [Aug'20] | Google Research        |
