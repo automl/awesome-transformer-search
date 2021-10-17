@@ -12,11 +12,13 @@ To keep track of the large number of recent papers that look at the intersection
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
 
+
 ## General Transformer Search
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://arxiv.org/pdf/2110.04035.pdf)                              | arxiv [Oct'21] | SenseTime              |
+| [Analyzing and Mitigating Interference in Neural Architecture Search](https://arxiv.org/pdf/2108.12821.pdf)                              | arxiv [Aug'21] | Tsinghua, MSR         |
 | [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2103.12424.pdf) | **ICCV'21**       | Sun Yat-sen University |
 | [Memory-Efficient Differentiable Transformer Architecture Search](https://aclanthology.org/2021.findings-acl.372.pdf)                              | **ACL-IJCNLP'21** | MSR, Peking University              |
 | [Finding Fast Transformers: One-Shot Neural Architecture Search by Component Composition](https://arxiv.org/pdf/2008.06808.pdf)                 | arxiv [Aug'20] | Google Research        |
@@ -41,10 +43,10 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models](https://aclanthology.org/2021.acl-long.400.pdf)  | **ACL'21**    | MIT           |
 | [NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search](https://arxiv.org/pdf/2105.14444.pdf) | **KDD'21**       | MSR, Tsinghua University |
 | [AutoBERT-Zero: Evolving the BERT backbone from scratch](https://arxiv.org/pdf/2107.07445.pdf) | arxiv [July'21] | Huawei Noah’s Ark Lab       |
 | [HAT: Hardware-Aware Transformers for Efficient Natural Language Processing](https://arxiv.org/pdf/2005.14187.pdf)  | **ACL'20**    | MIT           |
-
 
 ### Automatic Speech Recognition
 
