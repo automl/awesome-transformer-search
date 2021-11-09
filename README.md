@@ -62,6 +62,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 ## Insights on Transformer components and interesting papers
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | ICLR'22 under review | - |
 | [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | ICLR'22 under review | - |
 | [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | ICLR'22 under review | - |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
