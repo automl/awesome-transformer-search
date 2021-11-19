@@ -10,7 +10,7 @@ To keep track of the large number of recent papers that look at the intersection
 3. [**Insights on Transformer components or searchable parameters**](#insights-on-transformer-components-and-interesting-papers)
 4. [**Transformer Surveys**](#transformer-surveys)
 
-This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/yashsmehta/awesome-transformer-search/pulls) or [open an issue](https://github.com/yashsmehta/awesome-transformer-search/issues) to add papers.
+This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
 
 
 ## General Transformer Search
