@@ -67,8 +67,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)  | **ICLR'22 (Oral)** | MSR |
 | [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | **ICLR'22 (Spotlight)** | NAVER AI |
 | [Scale Efficiently: Insights from Pretraining and FineTuning Transformers](https://openreview.net/pdf?id=f2OYVDyfIB)  | **ICLR'22** | Google Research |
-| [Tuformer: Data-Driven Design of Expressive Transformer by Tucker Tensor Representation](https://openreview.net/pdf?id=V0A5g83gdQ_)  | **ICLR'22 **| UoMaryland |
-| [DictFormer: Tiny Transformer with Shared Dictionary](https://openreview.net/pdf?id=GWQWAeE9EpB)  |** ICLR'22** | Samsung Research |
+| [Tuformer: Data-Driven Design of Expressive Transformer by Tucker Tensor Representation](https://openreview.net/pdf?id=V0A5g83gdQ_)  | **ICLR'22** | UoMaryland |
+| [DictFormer: Tiny Transformer with Shared Dictionary](https://openreview.net/pdf?id=GWQWAeE9EpB)  | **ICLR'22** | Samsung Research |
 | [QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767.pdf)  | **ICLR'22** | Alibaba AI Lab |
 | [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22** | Tencent AI Lab |
 | [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
