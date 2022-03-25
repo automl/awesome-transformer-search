@@ -81,6 +81,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [LambdaNetworks: Modeling long-range Interactions without Attention](https://openreview.net/forum?id=xTJEN-ggl1b)                 | **ICLR'21** | Google Research        |
 | [HyperGrid Transformers](https://openreview.net/pdf?id=hiq1rHO8pNT)                             | **ICLR'21** | Google Research       |
 | [LocalViT: Bringing Locality to Vision Transformers](https://arxiv.org/pdf/2104.05707.pdf)                             | arxiv [April'21]   | ETH Zurich            |
+| [Compressive Transformers for Long Range Sequence Modelling](https://openreview.net/forum?id=SylKikSYDH)                                                                                 | **ICLR'20**       | DeepMind     |
 | [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/pdf/1911.03864.pdf)                                                                                 | **ACL'20**       | FAIR, Allen AI           |
 | [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)                                                                                 | **ACL'19**       | Yandex           |
