@@ -89,6 +89,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | arxiv [Oct'21] | MBZ University of AI      |
+| [A Survey of Visual Transformers](https://arxiv.org/pdf/2111.06091.pdf) | arxiv [Nov'21]  | CAS |
 | [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | arxiv [Sept'21]  | Google Research |
 
 ### Misc resources
