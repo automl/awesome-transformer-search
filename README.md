@@ -7,7 +7,7 @@
 To keep track of the large number of recent papers that look at the intersection of Transformers and Neural Architecture Search (NAS), we have created this _awesome_ list of curated papers and resources, inspired by [awesome-autodl](https://github.com/D-X-Y/Awesome-AutoDL), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). Papers are divided into the following categories:
 1. [**General Transformer search**](#general-transformer-search)
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
-3. [**Insights on Transformer components or searchable parameters**](#insights-on-transformer-components-and-interesting-papers)
+3. [**Transformers Knowledge: Insights / Searchable parameters / Attention**](#transformers-knowledge-insights-searchable-parameters-attention)
 4. [**Transformer Surveys**](#transformer-surveys)
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
@@ -60,13 +60,19 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Evolved Speech-Transformer: Applying Neural Architecture Search to End-to-End Automatic Speech Recognition](https://indico2.conference4me.psnc.pl/event/35/contributions/3122/attachments/301/324/Tue-1-8-5.pdf)  | **INTERSPEECH'20**    | VUNO Inc.           |
 
 
-## Insights on Transformer components and interesting papers
+### Transformers Knowledge: Insights, Searchable parameters, Attention
+
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)  | ICLR'22 under review | - |
-| [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | ICLR'22 under review | - |
-| [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | ICLR'22 under review | - |
-| [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | ICLR'22 under review | - |
+| [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)  | **ICLR'22 (Oral)** | MSR |
+| [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | **ICLR'22 (Spotlight)** | NAVER AI |
+| [Scale Efficiently: Insights from Pretraining and FineTuning Transformers](https://openreview.net/pdf?id=f2OYVDyfIB)  | **ICLR'22** | Google Research |
+| [Tuformer: Data-Driven Design of Expressive Transformer by Tucker Tensor Representation](https://openreview.net/pdf?id=V0A5g83gdQ_)  | **ICLR'22 **| UoMaryland |
+| [DictFormer: Tiny Transformer with Shared Dictionary](https://openreview.net/pdf?id=GWQWAeE9EpB)  |** ICLR'22** | Samsung Research |
+| [QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767.pdf)  | **ICLR'22** | Alibaba AI Lab |
+| [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22** | Tencent AI Lab |
+| [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
+| [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | arxiv | - |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
 | [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.12424.pdf)                              | **ICCV'21** | NAVER AI |
 | [What makes for hierarchical vision transformers](https://arxiv.org/pdf/2107.02174.pdf)                                                                                 | arxiv [Sept'21]       | HUST           |
@@ -84,5 +90,6 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | arxiv [Oct'21] | MBZ University of AI      |
 | [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | arxiv [Sept'21]  | Google Research |
+
 ### Misc resources
 - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
