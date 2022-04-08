@@ -65,6 +65,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | arxiv | MSR & UCSC |
 | [TubeDETR: Spatio-Temporal Video Grounding with Transformers](https://arxiv.org/pdf/2203.16434.pdf)  | **CVPR'22 (Oral)** | CNRS & Inria |
 | [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)  | **ICLR'22 (Oral)** | MSR |
 | [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | **ICLR'22 (Spotlight)** | NAVER AI |
