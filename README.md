@@ -76,6 +76,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22** | Tencent AI Lab |
 | [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
 | [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | arxiv | - |
+| [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/pdf/2110.13711.pdf)       | arxiv | Google Research, UoWarsaw |
 | [Transformer in Transformer](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)    | **NeurIPS'21** | Huawei Noah's Ark |
 | [Long-Short Transformer: Efficient Transformers for Language and Vision](https://papers.nips.cc/paper/2021/file/9425be43ba92c2b4454ca7bf602efad8-Paper.pdf)  | **NeurIPS'21** | NVIDIA |
 | [Memory-efficient Transformers via Top-k Attention](https://aclanthology.org/2021.sustainlp-1.5.pdf)  | EMNLP Workshop '21 | Allen AI |
