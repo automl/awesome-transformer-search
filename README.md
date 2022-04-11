@@ -77,6 +77,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
 | [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | arxiv | - |
 | [Transformer in Transformer](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)    | **NeurIPS'21** | Huawei Noah's Ark |
+| [Long-Short Transformer: Efficient Transformers for Language and Vision](https://papers.nips.cc/paper/2021/file/9425be43ba92c2b4454ca7bf602efad8-Paper.pdf)  | **NeurIPS'21** | NVIDIA |
+| [Memory-efficient Transformers via Top-k Attention](https://aclanthology.org/2021.sustainlp-1.5.pdf)  | EMNLP Workshop '21 | Allen AI |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
 | [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.12424.pdf)                              | **ICCV'21** | NAVER AI |
 | [What makes for hierarchical vision transformers](https://arxiv.org/pdf/2107.02174.pdf)                                                                                 | arxiv [Sept'21]       | HUST           |
