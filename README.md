@@ -25,6 +25,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Memory-Efficient Differentiable Transformer Architecture Search](https://aclanthology.org/2021.findings-acl.372.pdf)                              | **ACL-IJCNLP'21** | MSR, Peking University              |
 | [Finding Fast Transformers: One-Shot Neural Architecture Search by Component Composition](https://arxiv.org/pdf/2008.06808.pdf)                 | arxiv [Aug'20] | Google Research        |
 | [AutoTrans: Automating Transformer Design via Reinforced Architecture Search](https://arxiv.org/pdf/2009.02070.pdf)                             | arxiv [Sep'20] | Fudan University       |
+| [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [NAT: Neural Architecture Transformer for Accurate and Compact Architectures](https://arxiv.org/pdf/1910.14488.pdf)                             | **NeurIPS'19**    | Tencent AI             |
 | [The Evolved Transformer](http://proceedings.mlr.press/v97/so19a/so19a.pdf)                                                                                 | **ICML'19**       | Google Brain           |
 
@@ -93,7 +94,6 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [LocalViT: Bringing Locality to Vision Transformers](https://arxiv.org/pdf/2104.05707.pdf)                             | arxiv [April'21]   | ETH Zurich            |
 | [Compressive Transformers for Long Range Sequence Modelling](https://openreview.net/forum?id=SylKikSYDH)                                                                                 | **ICLR'20**       | DeepMind     |
 | [Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/pdf/1911.03864.pdf)                                                                                 | **ACL'20**       | FAIR, Allen AI           |
-| [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)                                                                                 | **ACL'19**       | Yandex           |
 
 ## Transformer Surveys
