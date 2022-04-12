@@ -57,7 +57,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
 | [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) | **ICASSP'21** | MSR       |
-| [Darts-Conformer: Towards Efficient Gradient-Based Neural Architecture Search For End-to-End ASR](https://arxiv.org/pdf/2104.02868.pdf) | arxiv [Aug'21] | NPU, Xi'an       |
+| [Efficient Gradient-Based Neural Architecture Search For End-to-End ASR](https://dl.acm.org/doi/abs/10.1145/3461615.3491109) | ICMI-MLMI'21 | NPU, Xi'an       |
 | [Improved Conformer-based End-to-End Speech Recognition Using Neural Architecture Search](https://arxiv.org/pdf/2104.05390.pdf) | arxiv [April'21]  | Chinese Academy of Sciences |
 | [Evolved Speech-Transformer: Applying Neural Architecture Search to End-to-End Automatic Speech Recognition](https://indico2.conference4me.psnc.pl/event/35/contributions/3122/attachments/301/324/Tue-1-8-5.pdf)  | **INTERSPEECH'20**    | VUNO Inc.           |
 
