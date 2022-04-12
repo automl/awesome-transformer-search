@@ -69,6 +69,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Training Compute Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)  | arxiv | DeepMind |
 | [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | arxiv | MSR & UCSC |
 | [TubeDETR: Spatio-Temporal Video Grounding with Transformers](https://arxiv.org/pdf/2203.16434.pdf)  | **CVPR'22 (Oral)** | CNRS & Inria |
+| [Beyond Fixation: Dynamic Window Visual Transformer](https://arxiv.org/abs/2203.12856)  | **CVPR'22** | UT Sydney & RMIT University |
 | [BEiT: BERT Pre-Training of Image Transformers](https://openreview.net/forum?id=p-BhZSz59o4)  | **ICLR'22 (Oral)** | MSR |
 | [How Do Vision Transformers Work?](https://openreview.net/forum?id=D78Go4hVcxO)  | **ICLR'22 (Spotlight)** | NAVER AI |
 | [Scale Efficiently: Insights from Pretraining and FineTuning Transformers](https://openreview.net/pdf?id=f2OYVDyfIB)  | **ICLR'22** | Google Research |
