@@ -17,6 +17,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Training Free Transformer Architecture Search](https://arxiv.org/abs/2203.12217)                    | **CVPR'22** |  Tencent & Xiamen University |
 | [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/file/48e95c45c8217961bf6cd7696d80d238-Paper.pdf)                    | **NeurIPS'21** | MSRA, Stony Brook University              |
 | [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://arxiv.org/pdf/2110.04035.pdf)                              | arxiv [Oct'21] | SenseTime              |
 | [Analyzing and Mitigating Interference in Neural Architecture Search](https://arxiv.org/pdf/2108.12821.pdf)                              | arxiv [Aug'21] | Tsinghua, MSR         |
