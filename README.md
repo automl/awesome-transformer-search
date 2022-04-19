@@ -86,7 +86,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Long-Short Transformer: Efficient Transformers for Language and Vision](https://papers.nips.cc/paper/2021/file/9425be43ba92c2b4454ca7bf602efad8-Paper.pdf)  | **NeurIPS'21** | NVIDIA |
 | [Memory-efficient Transformers via Top-k Attention](https://aclanthology.org/2021.sustainlp-1.5.pdf)  | EMNLP Workshop '21 | Allen AI |
 | [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)                              | **ICCV'21 best paper** | MSR |
-| [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.12424.pdf)                              | **ICCV'21** | NAVER AI |
+| [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.16302.pdf)                              | **ICCV'21** | NAVER AI |
 | [What makes for hierarchical vision transformers](https://arxiv.org/pdf/2107.02174.pdf)                                                                                 | arxiv [Sept'21]       | HUST           |
 | [AutoAttend: Automated Attention Representation Search](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf) | **ICML'21**       | Tsinghua University |
 | [Rethinking Attention with Performers](https://openreview.net/pdf?id=Ua6zuk0WRH)                              | **ICLR'21 Oral** | Google              |
