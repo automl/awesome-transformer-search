@@ -79,7 +79,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Tuformer: Data-Driven Design of Expressive Transformer by Tucker Tensor Representation](https://openreview.net/pdf?id=V0A5g83gdQ_)  | **ICLR'22** | UoMaryland |
 | [DictFormer: Tiny Transformer with Shared Dictionary](https://openreview.net/pdf?id=GWQWAeE9EpB)  | **ICLR'22** | Samsung Research |
 | [QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767.pdf)  | **ICLR'22** | Alibaba AI Lab |
-| [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22** | Tencent AI Lab |
+| [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22 (Spotlight)** | UC San Diego & Tencent AI Lab |
 | [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
 | [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | arxiv'22 | - |
 | [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/pdf/2110.13711.pdf)       | arxiv'21 | Google Research, UoWarsaw |
