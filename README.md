@@ -36,6 +36,7 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [𝛼NAS: Neural Architecture Search using Property Guided Synthesis](https://arxiv.org/abs/2205.03960)        | arxiv |  MIT, Google  |
 | [NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training](https://openreview.net/pdf?id=Qaw16njk6L)        | **ICLR'22** |  Meta Reality Labs    |
 | [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651.pdf)                              | **ICCV'21** | MSR              |
 | [GLiT: Neural Architecture Search for Global and Local Image Transformer](https://arxiv.org/pdf/2107.02960.pdf) | **ICCV'21**       | University of Sydney |
