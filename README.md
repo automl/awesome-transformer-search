@@ -9,6 +9,7 @@ To keep track of the large number of recent papers that look at the intersection
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
 3. [**Transformers Knowledge: Insights / Searchable parameters / Attention**](#transformers-knowledge-insights-searchable-parameters-attention)
 4. [**Transformer Surveys**](#transformer-surveys)
+5. [**Misc Resources**](#misc-resources)
 
 This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
 
@@ -109,3 +110,5 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 ### Misc resources
 - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+- [Vision Transformer & Attention Awesome List](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
+
