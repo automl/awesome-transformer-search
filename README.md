@@ -70,6 +70,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Seperable Self Attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680)  | arxiv'22 | Apple |
+| [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191)  | arxiv'22 | Snap Inc |
 | [Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)  | arxiv'22 | Meta AI |
 | [Training Compute Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)  | arxiv'22 | DeepMind |
 | [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | arxiv | MSR & UCSC |
