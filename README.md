@@ -75,6 +75,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)  | arxiv'22 | Meta AI |
 | [Training Compute Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)  | arxiv'22 | DeepMind |
 | [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | arxiv | MSR & UCSC |
+| [CMT: Convolutional Neural Networks meet Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.html)  | **CVPR'22** | Huawei Noah’s Ark Lab |
+| [Patch Slimming for Efficient Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Tang_Patch_Slimming_for_Efficient_Vision_Transformers_CVPR_2022_paper.html)  | **CVPR'22** | Huawei Noah’s Ark Lab |
 | [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809)  | **CVPR'22** | Johns Hopkins University, Adobe |
 | [TubeDETR: Spatio-Temporal Video Grounding with Transformers](https://arxiv.org/pdf/2203.16434.pdf)  | **CVPR'22 (Oral)** | CNRS & Inria |
 | [Beyond Fixation: Dynamic Window Visual Transformer](https://arxiv.org/abs/2203.12856)  | **CVPR'22** | UT Sydney & RMIT University |
