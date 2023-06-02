@@ -9,24 +9,25 @@ To keep track of the large number of recent papers that look at the intersection
 2. [**Domain Specific, applied Transformer search (divided into NLP, Vision, ASR)**](#domain-specific-transformer-search)
 3. [**Transformers Knowledge: Insights / Searchable parameters / Attention**](#transformers-knowledge-insights-searchable-parameters-attention)
 4. [**Transformer Surveys**](#transformer-surveys)
-5. [**Misc Resources**](#misc-resources)
+5. [**Foundation Models**](#foundation-models)
+6. [**Misc Resources**](#misc-resources)
 
-This repository is maintained by the [AutoML Group Freiburg](https://www.automl.org/). Please feel free to [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
-
+This repository is maintained by [**Yash Mehta**](https://yashsmehta.github.io/), please feel free to reach out, create [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
 
 ## General Transformer Search
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [LiteTransformerSearch: Training-free On-device Search for Efficient Autoregressive Language Models](https://arxiv.org/pdf/2203.02094.pdf) | arxiv [March'22]|  MSR |
+| [Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models](https://openreview.net/forum?id=GdMqXQx5fFR)                    | **NeurIPS'22** |  MSR |
 | [Training Free Transformer Architecture Search](https://arxiv.org/abs/2203.12217)                    | **CVPR'22** |  Tencent & Xiamen University |
+| [LiteTransformerSearch: Training-free On-device Search for Efficient Autoregressive Language Models](https://arxiv.org/pdf/2203.02094.pdf) | AutoML Conference 2022 Workshop Track |  MSR |
 | [Searching the Search Space of Vision Transformer](https://proceedings.neurips.cc/paper/2021/file/48e95c45c8217961bf6cd7696d80d238-Paper.pdf)                    | **NeurIPS'21** | MSRA, Stony Brook University              |
-| [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://arxiv.org/pdf/2110.04035.pdf)                              | arxiv [Oct'21] | SenseTime              |
-| [Analyzing and Mitigating Interference in Neural Architecture Search](https://arxiv.org/pdf/2108.12821.pdf)                              | arxiv [Aug'21] | Tsinghua, MSR         |
+| [UniNet: Unified Architecture Search with Convolutions, Transformer and MLP](https://arxiv.org/pdf/2110.04035.pdf)                              | ECCV'22 | SenseTime              |
+| [Analyzing and Mitigating Interference in Neural Architecture Search](https://proceedings.mlr.press/v162/xu22h.html)                              | **ICML'22** | Tsinghua, MSR         |
 | [BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search](https://arxiv.org/pdf/2103.12424.pdf) | **ICCV'21**       | Sun Yat-sen University |
 | [Memory-Efficient Differentiable Transformer Architecture Search](https://aclanthology.org/2021.findings-acl.372.pdf)                              | **ACL-IJCNLP'21** | MSR, Peking University              |
 | [Finding Fast Transformers: One-Shot Neural Architecture Search by Component Composition](https://arxiv.org/pdf/2008.06808.pdf)                 | arxiv [Aug'20] | Google Research        |
-| [AutoTrans: Automating Transformer Design via Reinforced Architecture Search](https://arxiv.org/pdf/2009.02070.pdf)                             | arxiv [Sep'20] | Fudan University       |
+| [AutoTrans: Automating Transformer Design via Reinforced Architecture Search](https://arxiv.org/pdf/2009.02070.pdf)                             | NLPCC'21 | Fudan University       |
 | [NASABN: A Neural Architecture Search Framework for Attention-Based Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207600)                                                                                 | **IJCNN'20**       | Chinese Academy of Sciences           |
 | [NAT: Neural Architecture Transformer for Accurate and Compact Architectures](https://arxiv.org/pdf/1910.14488.pdf)                             | **NeurIPS'19**    | Tencent AI             |
 | [The Evolved Transformer](http://proceedings.mlr.press/v97/so19a/so19a.pdf)                                                                                 | **ICML'19**       | Google Brain           |
@@ -37,13 +38,12 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [𝛼NAS: Neural Architecture Search using Property Guided Synthesis](https://arxiv.org/abs/2205.03960)        | arxiv |  MIT, Google  |
+| [𝛼NAS: Neural Architecture Search using Property Guided Synthesis](https://dl.acm.org/doi/abs/10.1145/3563329)        | ACM Programming Languages'22 |  MIT, Google  |
 | [NASViT: Neural Architecture Search for Efficient Vision Transformers with Gradient Conflict aware Supernet Training](https://openreview.net/pdf?id=Qaw16njk6L)        | **ICLR'22** |  Meta Reality Labs    |
 | [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651.pdf)                              | **ICCV'21** | MSR              |
 | [GLiT: Neural Architecture Search for Global and Local Image Transformer](https://arxiv.org/pdf/2107.02960.pdf) | **ICCV'21**       | University of Sydney |
 | [Searching for Efficient Multi-Stage Vision Transformers](https://neural-architecture-ppf.github.io/papers/00011.pdf)                             | ICCV'21 workshop | MIT       |
 | [HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_HR-NAS_Searching_Efficient_High-Resolution_Neural_Architectures_With_Lightweight_Transformers_CVPR_2021_paper.pdf)                             | **CVPR'21**    | Bytedance Inc.             |
-| [ViTAS: Vision Transformer Architecture Search](https://arxiv.org/pdf/2106.13700.pdf)                 | arxiv [June'21] | SenseTime, Tsingua University        |
 
 
 ### Natural Language Processing
@@ -60,9 +60,9 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [SFA: Searching faster architectures for end-to-end automatic speech recognition models](https://www.sciencedirect.com/science/article/abs/pii/S0885230823000190) | Computer Speech and Language'23  | Chinese Academy of Sciences |
 | [LightSpeech: Lightweight and Fast Text to Speech with Neural Architecture Search](https://arxiv.org/abs/2102.04040) | **ICASSP'21** | MSR       |
 | [Efficient Gradient-Based Neural Architecture Search For End-to-End ASR](https://dl.acm.org/doi/abs/10.1145/3461615.3491109) | ICMI-MLMI'21 | NPU, Xi'an       |
-| [Improved Conformer-based End-to-End Speech Recognition Using Neural Architecture Search](https://arxiv.org/pdf/2104.05390.pdf) | arxiv [April'21]  | Chinese Academy of Sciences |
 | [Evolved Speech-Transformer: Applying Neural Architecture Search to End-to-End Automatic Speech Recognition](https://indico2.conference4me.psnc.pl/event/35/contributions/3122/attachments/301/324/Tue-1-8-5.pdf)  | **INTERSPEECH'20**    | VUNO Inc.           |
 
 
@@ -70,11 +70,12 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [Seperable Self Attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680)  | arxiv'22 | Apple |
-| [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191)  | arxiv'22 | Snap Inc |
-| [Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)  | arxiv'22 | Meta AI |
-| [Training Compute Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)  | arxiv'22 | DeepMind |
-| [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | arxiv | MSR & UCSC |
+| [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | TMLR'23 | CMU |
+| [Seperable Self Attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680)  | TMLR'23 | Apple |
+| [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | AAAI'23 | MSR & UCSC |
+| [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/abs/2206.01191)  | **NeurIPS'22** | Snap Inc |
+| [Neighborhood Attention Transformer](https://arxiv.org/pdf/2204.07143.pdf)  | **CVPR'23** | Meta AI |
+| [Training Compute Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)  | **NeurIPS'22** | DeepMind |
 | [CMT: Convolutional Neural Networks meet Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.html)  | **CVPR'22** | Huawei Noah’s Ark Lab |
 | [Patch Slimming for Efficient Vision Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Tang_Patch_Slimming_for_Efficient_Vision_Transformers_CVPR_2022_paper.html)  | **CVPR'22** | Huawei Noah’s Ark Lab |
 | [Lite Vision Transformer with Enhanced Self-Attention](https://arxiv.org/abs/2112.10809)  | **CVPR'22** | Johns Hopkins University, Adobe |
@@ -87,9 +88,8 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 | [DictFormer: Tiny Transformer with Shared Dictionary](https://openreview.net/pdf?id=GWQWAeE9EpB)  | **ICLR'22** | Samsung Research |
 | [QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767.pdf)  | **ICLR'22** | Alibaba AI Lab |
 | [Expediting Vision Transformers via Token Reorganization](https://openreview.net/pdf?id=BjyvwnXXVn_)  | **ICLR'22 (Spotlight)** | UC San Diego & Tencent AI Lab |
-| [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | arxiv | - |
-| [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | arxiv'22 | - |
-| [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/pdf/2110.13711.pdf)       | arxiv'21 | Google Research, UoWarsaw |
+| [UniFormer: Unified Transformer for Efficient Spatial-Temporal Representation Learning](https://openreview.net/forum?id=nBU_u6DLvoK)  | **ICLR'22** |  SIAT-SenseTime |
+| [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/pdf/2110.13711.pdf)       | NAACL'22 | Google Research, UoWarsaw |
 | [Transformer in Transformer](https://papers.nips.cc/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf)    | **NeurIPS'21** | Huawei Noah's Ark |
 | [Long-Short Transformer: Efficient Transformers for Language and Vision](https://papers.nips.cc/paper/2021/file/9425be43ba92c2b4454ca7bf602efad8-Paper.pdf)  | **NeurIPS'21** | NVIDIA |
 | [Memory-efficient Transformers via Top-k Attention](https://aclanthology.org/2021.sustainlp-1.5.pdf)  | EMNLP Workshop '21 | Allen AI |
@@ -108,10 +108,15 @@ This repository is maintained by the [AutoML Group Freiburg](https://www.automl.
 ## Transformer Surveys
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
-| [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | arxiv [Oct'21] | MBZ University of AI      |
+| [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf) | ACM Computing Surveys'22 | MBZ University of AI      |
+| [A Survey of Vision Transformers](https://ieeexplore.ieee.org/document/9716741) | TPAMI'22  | CAS |
+| [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | ACM Computing Surveys'22 | Google Research |
 [Neural Architecture Search for Transformers: A Survey](https://ieeexplore.ieee.org/document/9913476) | IEEE xplore [Sep'22] | Iowa State Uni |
-| [A Survey of Visual Transformers](https://arxiv.org/pdf/2111.06091.pdf) | arxiv [Nov'21]  | CAS |
-| [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf) | arxiv [Sept'21]  | Google Research |
+
+## Foundation Models
+| Title                                                                                                   | Venue         | Group                  |
+|:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models](https://arxiv.org/pdf/2305.16597.pdf) | arxiv'23 | Amazon Alexa AI |
 
 ### Misc resources
 - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
