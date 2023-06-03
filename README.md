@@ -70,6 +70,7 @@ This repository is maintained by [**Yash Mehta**](https://yashsmehta.github.io/)
 
 | Title                                                                                                   | Venue         | Group                  |
 |:--------------------------------------------------------------------------------------------------------|:--------------|:-----------------------|
+| [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/pdf/2305.13048.pdf)                              | arxiv [May'23] | EleutherAI |
 | [Patches are All You Need ?](https://openreview.net/pdf?id=TVHS5Y4dNvM)                              | TMLR'23 | CMU |
 | [Seperable Self Attention for Mobile Vision Transformers](https://arxiv.org/abs/2206.02680)  | TMLR'23 | Apple |
 | [Parameter-efficient Fine-tuning for Vision Transformers](https://arxiv.org/pdf/2203.16329.pdf)  | AAAI'23 | MSR & UCSC |
