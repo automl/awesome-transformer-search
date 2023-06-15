@@ -12,7 +12,7 @@ To keep track of the large number of recent papers that look at the intersection
 5. [**Foundation Models**](#foundation-models)
 6. [**Misc Resources**](#misc-resources)
 
-This repository is maintained by [**Yash Mehta**](https://yashsmehta.github.io/), please feel free to reach out, create [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers.
+This repository is maintained by [**Yash Mehta**](https://yashsmehta.github.io/), please feel free to reach out, create [pull requests](https://github.com/automl/awesome-transformer-search/pulls) or [open an issue](https://github.com/automl/awesome-transformer-search/issues) to add papers. Please see this [**Google Doc**](https://shorturl.at/giuFG) for a comprehensive list of papers at **ICML 2023** on foundation models/large language models.
 
 ## General Transformer Search
 
